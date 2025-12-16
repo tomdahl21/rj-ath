@@ -29,7 +29,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Navigate to="/login" />} />
           <Route path="/login" element={<Login />} />

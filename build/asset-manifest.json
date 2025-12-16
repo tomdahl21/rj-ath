@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rj-ath/static/css/main.abc3faed.css",
+    "main.js": "/rj-ath/static/js/main.2baceffe.js",
+    "index.html": "/rj-ath/index.html",
+    "main.abc3faed.css.map": "/rj-ath/static/css/main.abc3faed.css.map",
+    "main.2baceffe.js.map": "/rj-ath/static/js/main.2baceffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc3faed.css",
+    "static/js/main.2baceffe.js"
+  ]
+}
